@@ -15,3 +15,8 @@ Array.prototype.first = function() {
 console.log([1, 2, 3, 4, 5].first())
 console.log([`a`, `b`, `c`, `d`, `e`].first())
 
+String.prototype.toString - function() {
+    return `Lascou tudo`
+}
+
+console.log(`Escola Cod3r`.reverse())
